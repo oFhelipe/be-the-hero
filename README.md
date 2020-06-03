@@ -1,4 +1,12 @@
 # Be the hero
+![project_language](https://img.shields.io/badge/language-javascript-f7d84a)
+![server_backend](https://img.shields.io/badge/backend%2Fserver-node-green)
+![web](https://img.shields.io/badge/web-react-b831f6)
+![mobile](https://img.shields.io/badge/mobile-react%20native-f6a431)
+![license](https://img.shields.io/badge/license-MIT-green)
+![package_manager](https://img.shields.io/badge/package%20manager-yarn-informational)
+![tool](https://img.shields.io/badge/tool-expo-f76f4a)
+
  Projeto resultado da Semana Omnistack #11 
 
  ![week-11](https://user-images.githubusercontent.com/59922096/77484010-42ef6380-6e08-11ea-89f0-3782431ab842.png)
